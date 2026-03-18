@@ -16,7 +16,7 @@ public class ex01 {
         IO.println("curso matriculado: " + curso);
         IO.println("idade: " + idade);
 
-
+    }
 
 
 
