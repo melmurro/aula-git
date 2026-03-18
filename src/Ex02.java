@@ -5,10 +5,10 @@ public class Ex02 {
 
 
         IO.println("Nome do cliente");
-        String nome = sc.next();
+        String nome = sc.nextLine();
 
         IO.println("Nome do prato");
-        String prato = sc.next();
+        String prato = sc.nextLine();
 
         IO.println("Valor do prato");
         double valor = sc.nextDouble();
